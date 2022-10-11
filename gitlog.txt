@@ -1,0 +1,59 @@
+commit 8d370e5e9d9e12ccbe3b04d54de1912bd7fd9948
+Author: lyon12321 <zf2280@columbia.edu>
+Date:   Mon Oct 10 22:06:44 2022 -0400
+
+    message here
+
+commit 61096e18202337884fd7a83f760c770f5c973d93
+Author: lyon12321 <zf2280@columbia.edu>
+Date:   Mon Oct 10 22:03:10 2022 -0400
+
+    added changes
+
+commit d770d30d437599b17ea1e6755df8ad319e6ce770
+Author: lyon12321 <115330373+lyon12321@users.noreply.github.com>
+Date:   Sun Oct 9 22:38:34 2022 -0400
+
+    Add files via upload
+
+commit db1535453a25887b83034dc152ec13296612995f
+Author: lyon12321 <115330373+lyon12321@users.noreply.github.com>
+Date:   Sun Oct 9 22:35:52 2022 -0400
+
+    Add files via upload
+
+commit 71153e0544423b481d0f78de800bf6571c6e1011
+Author: lyon12321 <115330373+lyon12321@users.noreply.github.com>
+Date:   Sun Oct 9 22:34:51 2022 -0400
+
+    Delete HW2 .py
+
+commit ec8cd170390ccef906b1b0e84bb5951efa6e7a50
+Author: lyon12321 <115330373+lyon12321@users.noreply.github.com>
+Date:   Fri Oct 7 22:30:53 2022 -0400
+
+    Add files via upload
+
+commit ccff1551199de832e9be091ec12318eb400899fc
+Author: lyon12321 <115330373+lyon12321@users.noreply.github.com>
+Date:   Fri Oct 7 22:14:58 2022 -0400
+
+    Add files via upload
+
+commit 7aa3316a57870995125a681bfef0185007a1cdfa
+Author: lyon12321 <115330373+lyon12321@users.noreply.github.com>
+Date:   Fri Oct 7 22:13:54 2022 -0400
+
+    Update README.md
+
+commit 686d42cbe8e33fcde90ec0b5e6d247e55c18084b
+Author: lyon12321 <115330373+lyon12321@users.noreply.github.com>
+Date:   Fri Oct 7 22:13:32 2022 -0400
+
+    Update README.md
+
+commit b3e87dc4c53534400fd15cfc267c622bb04df6ea
+Author: lyon12321 <115330373+lyon12321@users.noreply.github.com>
+Date:   Fri Oct 7 22:09:54 2022 -0400
+
+    Initial commit
